@@ -1,0 +1,17 @@
+h4{
+    color:palevioletred;
+    text-align: center; }
+h1{background-color: aquamarine;
+    color:Tomato;     }
+p{ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table, th, td{
+  border: 1px solid;
+  width: 100%;
+}
+p {
+    background-color: gold;
+    background-repeat: repeat-y;
+    opacity: 1;
+}
+ul, ol {background-color: aquamarine;}
